@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+body{
+	background:#696969;
+	top:0;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-family: "Roboto", sans-serif;
+	}
+	
+footer{
+	background:#696969;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	bottom:0;
+	font-family: "Roboto", sans-serif;
+}	
+	
+
+.logo{
+	width: 20%;
+	position:right;
+	left:20%
+}
+
+.row{
+	display: inline-block;
+}
+
+
+.navbar{
+	position:relative;
+	top:0 ;
+	margin: 0;
+	background:#363636;
+	width:100%;
+	height:5%;
+	
+}
+.navbar:hover{
+	background:#4F4F4F;
+}
+ul#menu li{
+	display:inline;
+}
+
+.footer.rodape{
+	position:absolute;
+	bottom:0;
+}
